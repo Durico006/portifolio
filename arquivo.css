@@ -1,0 +1,183 @@
+*{
+    margin: 0;
+    overflow: hidden;
+    
+}
+br{
+    padding: 0;
+}
+body{
+    background-color:#a29d93;
+    max-width: 2000px;
+    margin-top: -10px;
+    
+}
+a{
+    color:black;
+}
+#todo{
+    width:auto;
+    
+    
+}
+.cima{
+    text-align: center;
+    font-size: 300%;
+    background-color: #3333ac;
+    padding: 10px;
+    
+}
+
+#comeco{
+    width: 33%;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+    
+}
+.links{
+    margin-left: 750px;
+    background-color: #cfcaca;
+    position:absolute;
+    margin-top: -825px;
+    background-size: cover; 
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 40px;
+    text-align: center;
+    
+    
+    
+}
+.links2{
+    margin-left: 750px;
+    background-color: #FF0000;
+    position:absolute;
+    margin-top: -770px;
+    background-size: cover; 
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 40px;
+    text-align: center;
+}
+
+.links3{
+    margin-left: 750px;
+    background-color: #5e5e5e;
+    position:absolute;
+    margin-top: -715px;
+    background-size: cover; 
+    background-repeat: no-repeat;
+    width: 500px;
+    height: 40px;
+    text-align: center;
+}
+.logo{
+    margin-left: 1600px;
+    margin-top: -800px;
+    width: 250px;
+    margin-bottom: -85px;
+    
+}
+#uniube{
+    width: 700px;
+    
+}
+#espm{
+    width: 600px;
+    
+
+}
+.container{
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+    margin-right: 1100px;
+    margin-bottom: -200px;
+    margin-top: -20px;
+    
+   
+}
+
+.container img{
+    display: block;
+    margin-bottom: 20px;
+}
+.texto{
+    font-size: 20px;
+    margin-left: 800px;
+    margin-top:70px;
+    text-align: center;
+    margin-right: 40px;
+}
+#logo2{
+    width: 250px;
+    margin-left: 1600px;
+    margin-top: -50px;
+    
+}
+
+#logo3{
+    width: 250px;
+    margin-left:1600px ;
+    margin-top: 100px;
+}
+
+#logo4{
+    width: 250px;
+    margin-left: 1600px;
+    margin-top: -2000px;
+    
+}
+.container2{
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+    margin-right: 1100px;
+    margin-top: -220px;
+    
+    
+   
+}
+
+.container2 img{
+    display: block;
+    margin-bottom: 20px;
+}
+#familia1{
+    width:450px;
+}
+#familia2{
+    width:400px;
+}
+#texto2{
+    margin-left:650px;
+    margin-top: 80px;
+    font-size: 25px;
+}
+#texto3{
+    font-size: 45px;
+}
+#instagram{
+    width:150px;
+}
+
+#espaco{
+    margin-left: 20px;
+    
+    
+}
+
+.elemento{
+    display: block;
+    padding: 10px;
+    
+    
+}
+.linha{
+    border-bottom: 1px solid black;
+    margin-top: 50px;
+    padding: 10px;
+    
+}
+
